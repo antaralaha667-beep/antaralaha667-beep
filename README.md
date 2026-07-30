@@ -1,16 +1,40 @@
-## Hi there 👋
+## 👋 Hi, I'm Antara Laha
 
-<!--
-**antaralaha667-beep/antaralaha667-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Diploma in Computer Science & Technology  
+🌱 Aspiring Software Engineer & Full Stack Web Developer  
 
-Here are some ideas to get you started:
+📧 Email: antaralaha667@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- C
+- C++
+- Python
+- PHP
+
+### 🗄️ Databases
+- MySQL
+- PostgreSQL
+- MongoDB
+
+### ⚙️ Tools & Technologies
+- Git
+- GitHub
+- VS Code
+- Vite
+- Responsive Web Design
+- REST API (Basic)
+- Node.js (Basic)
+- Express.js (Basic)
+
+### 📚 Currently Learning
+- React.js
+- Advanced Backend Development
+- AI-Powered Web Applications
+- Data Structures & Algorithms
+
+🎯 Passionate about building real-world projects, exploring modern technologies, and continuously improving my programming, problem-solving, and software development skills.
+
+⭐ Open to internships, collaborations, and exciting software development opportunities.
