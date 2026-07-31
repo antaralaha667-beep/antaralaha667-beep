@@ -39,4 +39,4 @@
 
 ⭐ Open to internships, collaborations, and exciting software development opportunities.
 
-![snake gif](https://raw.githubusercontent.com/antaralaha667-beep/antaralaha667-beep/output-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/antaralaha667-beep/antaralaha667-beep/output/github-contribution-grid-snake.svg)
