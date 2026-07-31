@@ -38,3 +38,5 @@
 🎯 Passionate about building real-world projects, exploring modern technologies, and continuously improving my programming, problem-solving, and software development skills.
 
 ⭐ Open to internships, collaborations, and exciting software development opportunities.
+
+![snake gif](https://raw.githubusercontent.com/antaralaha667-beep/antaralaha667-beep/output-contribution-grid-snake.svg)
